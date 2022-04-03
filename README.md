@@ -6,3 +6,5 @@ Prototyp - nie zaleca się używać na produkcji.
 
 ## Uruchamianie
 `java trojkaty 1 2 3`
+
+XDXDXD
